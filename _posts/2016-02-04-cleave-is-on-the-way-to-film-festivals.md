@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T19:16:53.425Z'
-dateModified: '2016-02-04T19:16:32.021Z'
+datePublished: '2016-02-04T19:22:13.872Z'
+dateModified: '2016-02-04T19:19:09.374Z'
 title: '#CLEAVE is on the way to film festivals.'
 author: []
+sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
-published: true
 url: cleave-is-on-the-way-to-film-festivals/index.html
 _type: Article
 
@@ -27,5 +27,7 @@ _type: Article
 # \#CLEAVE is on the way to film festivals.
 
 Watch the trailer here: [bit.ly/cleavefilmtrailer ][0]
+
+Follow us on social media @cleavefilm 
 
 [0]: bit.ly/cleavefilmtrailer
