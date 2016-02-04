@@ -1,7 +1,7 @@
 name: Sensorium Pictures
 favicon: null
-layout_spectrum: 0.4356222189962864
-typography_spectrum: 0.9319254888687283
+layout_spectrum: 1
+typography_spectrum: 0.55068
 title: 'Sensorium Pictures - bringing each element of the story together, in every sense of the word. '
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.009427177719771862
+  brandStrength: 0.25
   lightness: 0.2941616331227124
   saturation: 0.16885604965500534
   rhythmicContrast: 0.5467688690405339
