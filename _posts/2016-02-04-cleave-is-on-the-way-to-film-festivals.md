@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T20:47:49.334Z'
-dateModified: '2016-02-04T20:47:47.854Z'
+datePublished: '2016-02-04T20:50:00.036Z'
+dateModified: '2016-02-04T20:49:56.453Z'
 title: '#CLEAVE is on the way to film festivals.'
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
@@ -22,7 +22,7 @@ url: cleave-is-on-the-way-to-film-festivals/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbbb4115-f635-41f8-98d3-b4d4042b1ac7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/efe42d74c4166e3ce9221f247859da0daf98452a.jpg)
 
 ## \#CLEAVE film is on its way to festivals.
 
