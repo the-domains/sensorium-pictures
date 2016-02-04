@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T19:22:13.872Z'
-dateModified: '2016-02-04T19:19:09.374Z'
+datePublished: '2016-02-04T19:27:19.991Z'
+dateModified: '2016-02-04T19:27:12.957Z'
 title: '#CLEAVE is on the way to film festivals.'
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
