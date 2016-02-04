@@ -1,0 +1,28 @@
+name: Sensorium Pictures
+favicon: null
+layout_spectrum: 0.4356222189962864
+typography_spectrum: 0.9319254888687283
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.009427177719771862
+  lightness: 0.2941616331227124
+  saturation: 0.16885604965500534
+  rhythmicContrast: 0.5467688690405339
+purpose: []
