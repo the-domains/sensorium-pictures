@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: Learn more about the name behind our company.
-datePublished: '2016-02-05T18:48:26.903Z'
-dateModified: '2016-02-05T18:48:25.500Z'
-title: SENSORIUM PICTURES
+datePublished: '2016-02-05T18:56:19.857Z'
+dateModified: '2016-02-05T18:56:18.111Z'
+title: "What's behind the name?\_"
 author: []
 sourcePath: _posts/2016-02-05-what-is-sensorium-about.md
 published: true
@@ -22,13 +22,12 @@ url: what-is-sensorium-about/index.html
 _type: Article
 
 ---
-SENSORIUM PICTURES
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e2de1d59e36cee01478aa592ce7762d/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F6583302ccfe520d29fff2550bd6f6cef13f5b49e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7440eb5-73c1-4d41-aaa3-ecff7ca69e0a.jpg)
 
-Uploading Item...
+# What's behind the name? 
 
-## What's behind the name? 
+**_Sensorium: _**The entire sensory apparatus, the sum of an organism's perception OR the "seat of sensation" where a person experiences and interprets the environments within which they live. 
 
-_Sensorium:_ The entire sensory apparatus, or the sum of an organism's perception.
+## Meet our core team: 
 
-b: the "seat of sensation" where a person experiences and interprets the environments within which they live.
+@CateCarson, Founder and Chief Creative/President of Development @JustinPlasse - Co-Owner and President of Production
