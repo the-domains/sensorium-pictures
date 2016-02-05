@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-05T17:15:06.794Z'
-dateModified: '2016-02-05T17:04:39.519Z'
+description: Learn more about the name behind our company.
+datePublished: '2016-02-05T17:17:25.244Z'
+dateModified: '2016-02-05T17:17:21.743Z'
 title: "What is SENSORIUM about?\_"
 author: []
+sourcePath: _posts/2016-02-05-what-is-sensorium-about.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-what-is-sensorium-about.md
-published: true
 url: what-is-sensorium-about/index.html
-_type: Article
+_type: WebPage
 
 ---
 # What is SENSORIUM about? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0ae57a6-6d4e-48fc-99e1-085bf3445908.jpg)
