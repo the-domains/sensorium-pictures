@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Cleave, a 28 minute short film,  is in the 2016 festival circuit'
-datePublished: '2016-02-05T17:58:14.233Z'
-dateModified: '2016-02-05T17:58:05.454Z'
-title: '#CLEAVE short film'
+datePublished: '2016-02-05T18:27:04.100Z'
+dateModified: '2016-02-05T18:26:58.907Z'
+title: CLEAVE - 2016 short film
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
 published: true
@@ -22,13 +22,23 @@ url: cleave-is-on-the-way-to-film-festivals/index.html
 _type: Article
 
 ---
-CLEAVE
+# CLEAVE - 2016 short film
+
+## A blue-collar couple living the "American dream" suffer fromremaining loyal to a failing and toxic marriage.  
+
+Sensoriteam: Directed by @catecarson, produced and edited by @justinplasse. 
+
+Watch the trailer here:[bit.ly/cleavefilmtrailer ][0]
+
+Connect with us and learn more: [Official Site][1], @cleavefilm and [facebook][2]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5530e123f47f21ddf562cc4b3ea558fc138af86f.jpg)
 
-## \#CLEAVE film is now in the 2016 festival circuit.
+## NEWS
 
-* Watch the trailer here: [bit.ly/cleavefilmtrailer ][0]
+## JAN '16 - \#CLEAVE is now in the 2016 festival circuit!
 
-* Follow us on social media @cleavefilm 
+* Stay tuned for more updates. 
 
-[0]: bit.ly/cleavefilmtrailer
+[0]: https://app.thegrid.io/posts/e297662b-5cfa-4ffe-9259-b4e7b792040f/bit.ly/cleavefilmtrailer
+[1]: www.cleavefilm.com
+[2]: www.facebook.com/whatsyourcleave
