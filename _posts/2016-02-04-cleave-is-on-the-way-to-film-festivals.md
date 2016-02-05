@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: www.cleavefilm.com
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Cleave, a 28 minute short film,  is in the 2016 festival circuit'
-datePublished: '2016-02-05T18:38:47.842Z'
-dateModified: '2016-02-05T18:38:43.286Z'
-title: CLEAVE - 2016 short film
+description: 'Cleave, a 28 minute short film,  now in the 2016 festival circuit'
+datePublished: '2016-02-05T18:42:35.811Z'
+dateModified: '2016-02-05T18:42:34.231Z'
+title: '#CLEAVE - 2016 - a 28 minute short film'
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
 published: true
@@ -19,14 +18,19 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: cleave-2016-a-28-minute-short-film/index.html
+_type: Article
 
 ---
-# CLEAVE - 2016 short film
+# \#CLEAVE - 2016 - a 28 minute short film
 
 ## A blue-collar couple living the "American dream" suffer from remaining loyal to a failing and toxic marriage.  
 
-Sensoriteam: Directed by @catecarson, produced and edited by @justinplasse. 
+Why is it we remain loyal to things that are so divisive in our lives? 
+
+Nadia and Aidan have built a blue-collar life in small town America. Outside looking in, they achieved the American dream -a house in a quiet suburban neighborhood and two kids. But at this dark cross-section, their marriage is failing, both of them clinging to the toxicity that is suffocating them. In HIM and HER, we see the fear of change at war with what they both want. Will they remain loyal to something that is tearing them apart?
+
+A @sensoriump production in association with 42/24 Films. Sensoriteam: Directed by @catecarson, produced and edited by @justinplasse. 
 
 Watch the trailer here:[bit.ly/cleavefilmtrailer ][0]
 
