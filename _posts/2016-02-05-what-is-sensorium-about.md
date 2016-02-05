@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Learn more about the name behind our company.
-datePublished: '2016-02-05T17:19:08.725Z'
-dateModified: '2016-02-05T17:19:07.038Z'
+datePublished: '2016-02-05T18:36:46.722Z'
+dateModified: '2016-02-05T18:36:43.885Z'
 title: "What is SENSORIUM about?\_"
 author: []
 sourcePath: _posts/2016-02-05-what-is-sensorium-about.md
@@ -22,9 +22,9 @@ url: what-is-sensorium-about/index.html
 _type: Article
 
 ---
-# What is SENSORIUM about? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0ae57a6-6d4e-48fc-99e1-085bf3445908.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6583302ccfe520d29fff2550bd6f6cef13f5b49e.jpg)
 
-## Bringing each element of the story to life, in every sense of the word. 
+## 
 
 _Sensorium:_ The entire sensory apparatus, or the sum of an organism's perception.
 
