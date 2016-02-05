@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-04T22:30:26.785Z'
-dateModified: '2016-02-04T22:30:25.028Z'
-title: '#CLEAVE is on the way to film festivals.'
+description: 'Cleave, a 28 minute short film,  is in the 2016 festival circuit'
+datePublished: '2016-02-05T17:58:14.233Z'
+dateModified: '2016-02-05T17:58:05.454Z'
+title: '#CLEAVE short film'
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
 published: true
@@ -22,10 +22,10 @@ url: cleave-is-on-the-way-to-film-festivals/index.html
 _type: Article
 
 ---
-Latest Film Update!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/efe42d74c4166e3ce9221f247859da0daf98452a.jpg)
+CLEAVE
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5530e123f47f21ddf562cc4b3ea558fc138af86f.jpg)
 
-## \#CLEAVE film is on its way to festivals.
+## \#CLEAVE film is now in the 2016 festival circuit.
 
 * Watch the trailer here: [bit.ly/cleavefilmtrailer ][0]
 
