@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-05T17:12:28.042Z'
-dateModified: '2016-02-05T17:12:22.195Z'
+datePublished: '2016-02-05T18:33:49.501Z'
+dateModified: '2016-02-05T18:33:46.337Z'
 title: The ABSOLUTE
 author: []
 sourcePath: _posts/2016-02-05-the-absolute.md
