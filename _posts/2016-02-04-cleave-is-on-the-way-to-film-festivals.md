@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Cleave, a 28 minute short film,  is in the 2016 festival circuit'
-datePublished: '2016-02-05T18:27:04.100Z'
-dateModified: '2016-02-05T18:26:58.907Z'
+datePublished: '2016-02-05T18:32:41.899Z'
+dateModified: '2016-02-05T18:32:40.495Z'
 title: CLEAVE - 2016 short film
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # CLEAVE - 2016 short film
 
-## A blue-collar couple living the "American dream" suffer fromremaining loyal to a failing and toxic marriage.  
+## A blue-collar couple living the "American dream" suffer from remaining loyal to a failing and toxic marriage.  
 
 Sensoriteam: Directed by @catecarson, produced and edited by @justinplasse. 
 
