@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Cleave is a 28 minute short film,  now in the 2016 festival circuit'
-datePublished: '2016-02-05T18:59:02.054Z'
-dateModified: '2016-02-05T18:58:55.662Z'
+datePublished: '2016-02-26T15:06:02.567Z'
+dateModified: '2016-02-26T15:05:46.230Z'
 title: '#CLEAVE - 2016 - a 28 minute short film'
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
@@ -22,6 +22,8 @@ url: cleave-2016-a-28-minute-short-film/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d92e0e4-cee4-480d-9be6-58a72d3f23e8.jpg)
+
 # \#CLEAVE - 2016 - a 28 minute short film
 
 ## A blue-collar couple living the "American dream" suffer from remaining loyal to a failing and toxic marriage.  
