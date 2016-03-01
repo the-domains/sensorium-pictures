@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Cleave is a 28 minute short film,  now in the 2016 festival circuit'
-datePublished: '2016-03-01T16:28:04.567Z'
-dateModified: '2016-03-01T16:27:55.398Z'
+datePublished: '2016-03-01T16:29:47.343Z'
+dateModified: '2016-03-01T16:29:40.589Z'
 title: '#CLEAVE - 2016 - a 28 minute short film'
 author: []
 sourcePath: _posts/2016-02-04-cleave-is-on-the-way-to-film-festivals.md
@@ -37,7 +37,6 @@ A @sensoriump production in association with 42/24 Films. Sensoriteam: Directed 
 Watch the trailer here:[bit.ly/cleavefilmtrailer ][0]
 
 Connect with us and learn more: [Official Site][1], @cleavefilm and [facebook][2]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5530e123f47f21ddf562cc4b3ea558fc138af86f.jpg)
 
 ## \#CLEAVE is now in the 2016 festival circuit!
 
