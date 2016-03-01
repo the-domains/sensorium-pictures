@@ -1,18 +1,23 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: true
+keywords: []
 description: ''
+datePublished: '2016-03-01T16:31:20.300Z'
+dateModified: '2016-03-01T16:30:21.614Z'
 author: []
-datePublished: '2016-03-01T02:41:15.096Z'
+title: Sensorium Show Reel
+sourcePath: _posts/2016-03-01-sensorium-show-reel.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: Sensorium Show Reel
-dateModified: '2016-03-01T02:39:25.961Z'
-sourcePath: _posts/2016-03-01-sensorium-show-reel.md
-published: true
-starred: true
-inFeed: true
-hasPage: true
-inNav: false
+  url: null
+  favicon: null
 url: sensorium-show-reel/index.html
 _context: 'http://schema.org'
 _type: Article
