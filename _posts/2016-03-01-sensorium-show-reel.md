@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-01T02:38:49.451Z'
+datePublished: '2016-03-01T02:41:15.096Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Sensorium Show Reel
-dateModified: '2016-03-01T02:37:58.692Z'
+dateModified: '2016-03-01T02:39:25.961Z'
 sourcePath: _posts/2016-03-01-sensorium-show-reel.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
