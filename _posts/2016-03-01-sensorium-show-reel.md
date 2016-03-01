@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-01T16:31:20.300Z'
-dateModified: '2016-03-01T16:30:21.614Z'
+datePublished: '2016-03-01T16:33:39.624Z'
+dateModified: '2016-03-01T16:33:06.732Z'
 author: []
 title: Sensorium Show Reel
 sourcePath: _posts/2016-03-01-sensorium-show-reel.md
