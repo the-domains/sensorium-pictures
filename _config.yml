@@ -1,7 +1,7 @@
 name: Sensorium Pictures
 favicon: null
-layout_spectrum: 0.71936
-typography_spectrum: 0.74849
+layout_spectrum: 0.90937
+typography_spectrum: 1
 title: 'SENSORIUM Pictures '
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#984d64'
     - '#e3c57d'
     - '#feffff'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.625
   rhythmicContrast: 0.75
