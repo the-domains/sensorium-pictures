@@ -1,29 +1,41 @@
-name: Sensorium Pictures
-favicon: null
-layout_spectrum: 0.90937
-typography_spectrum: 1
 title: 'SENSORIUM Pictures '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1875
+  brandStrength: 1
+  lightness: 0.5625
+  brandColors:
+    - '#FCFCFB'
+    - '#318390'
+    - '#EB4850'
+    - '#2B5A6A'
+    - '#A2A2A1'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Sensorium Pictures
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#220e19'
-    - '#bd9128'
-    - '#984d64'
-    - '#e3c57d'
-    - '#feffff'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 1
+layout_spectrum: 0.90937
